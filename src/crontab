@@ -1,0 +1,2 @@
+PATH=/usr/heimdal/bin:/usr/local/bin:/bin:/usr/bin:/afs/pdc.kth.se/home/d/donal/.local/bin
+17 03 * * * ~/upload.sh
