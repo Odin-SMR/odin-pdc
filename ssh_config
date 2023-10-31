@@ -1,0 +1,7 @@
+# Hosts we want to authenticate to with Kerberos
+Host *.pdc.kth.se
+GSSAPIAuthentication yes
+GSSAPIKeyExchange=yes
+GSSAPIDelegateCredentials=yes
+# All other hosts
+Host *
